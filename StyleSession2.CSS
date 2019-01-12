@@ -1,0 +1,54 @@
+h3{
+    color: rgb(255,192,73);
+    font-weight: 200px;
+
+}
+h4{
+    color: rgb(52, 11, 58,);
+    font-size:24px;
+    
+}
+
+h5{
+    color: rgb(255,55,87);
+    font-size: 18px;
+}
+
+#Key{
+    border-style: dotted;
+    text-align:center;
+    line-height: 80%;
+}
+
+#Division {
+    background-color: rgb(117,132,255);
+    width: 200px;
+    height: 90px;
+    border: 1px black;
+    
+}
+
+.divName{
+    background-color:rgb(117,132,255);
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:30px;
+    padding-bottom:30px;
+    margin-right: 850px;
+    margin-left: 125px;
+    text-align:center;
+    
+}
+.btnOK {
+    color: green;
+    font-style: oblique;
+}
+
+#sell{
+    font-size: 24px;
+    color: green;
+    text-align: center;
+    margin-right:750px;
+
+
+}
